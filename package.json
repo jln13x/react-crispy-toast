@@ -2,7 +2,7 @@
   "name": "crispy-toast",
   "version": "1.0.0",
   "keywords": [],
-  "author": "",
+  "author": "Julian Hubatsch",
   "license": "ISC",
   "peerDependencies": {
     "react": "^18.2.0",
